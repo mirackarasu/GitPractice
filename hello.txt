@@ -2,3 +2,4 @@ Merhaba Martı!
 staja hazırlanıyorum
 login feature geliştirliyor
 bugün git tekrar ediyorum
+Profile feature geliştiriliyor
